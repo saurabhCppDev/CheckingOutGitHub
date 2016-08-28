@@ -1,5 +1,6 @@
-// OpenGL.cpp : Defines the entry point for the application.
+// OpenGL.cpp : Defines the entry point for the application.      
 //
+
 /*      Steven Billington
         January 13, 2003
         May 26, 2003 - UPDATE
